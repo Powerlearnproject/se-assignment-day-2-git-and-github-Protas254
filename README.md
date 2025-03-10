@@ -367,5 +367,6 @@ o	Pre-commit hooks are scripts that run before each commit. They can be used to 
 o	Don't hesitate to ask for help from experienced developers.
 o	Participate in online communities and forums.
 o	Pair programming can be very useful for learning git.
+
 Reference done by AI:@gemini.ai
 
